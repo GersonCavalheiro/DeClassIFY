@@ -10,6 +10,32 @@
 
 DeClassIFY is a Google Chrome extension designed to classify PDF documents, primarily academic papers, based on the nature of the research presented. It categorizes documents according to several aspects of the research methodology, providing insights into the type of study and approach taken.
 
+## How to Cite
+
+To reference this work, please use the following citation:
+
+**APA Format:**
+Use code with caution.
+Markdown
+Osorio, A., Ataides, V., Ferreira Jr., P., & Cavalheiro, G. (2024). DeClassIFY: Uma ferramenta para auxílio à classificação de artigos científicos. In Anais do XXXII Workshop sobre Educação em Computação, (pp. 750-761). Porto Alegre: SBC. doi:10.5753/wei.2024.2987
+
+**BibTeX Format:**
+```bibtex
+@inproceedings{wei,
+ author = {Alessander Osorio and Vitor Ataides and Paulo Ferreira Jr. and Gerson Cavalheiro},
+ title = { DeClassIFY: Uma ferramenta para auxílio à classificação de artigos científicos},
+ booktitle = {Anais do XXXII Workshop sobre Educação em Computação},
+ location = {Brasília/DF},
+ year = {2024},
+ keywords = {},
+ issn = {2595-6175},
+ pages = {750--761},
+ publisher = {SBC},
+ address = {Porto Alegre, RS, Brasil},
+ doi = {10.5753/wei.2024.2987},
+ url = {https://sol.sbc.org.br/index.php/wei/article/view/29673}
+}
+
 **Key Classification Aspects:**
 
 - **Nature:** Whether the research is more "Pure" or "Applied".
