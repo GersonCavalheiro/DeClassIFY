@@ -16,7 +16,7 @@ To reference this work, please use the following citation:
 
 **APA Format:**
 Use code with caution.
-Markdown
+
 Osorio, A., Ataides, V., Ferreira Jr., P., & Cavalheiro, G. (2024). DeClassIFY: Uma ferramenta para auxílio à classificação de artigos científicos. In Anais do XXXII Workshop sobre Educação em Computação, (pp. 750-761). Porto Alegre: SBC. doi:10.5753/wei.2024.2987
 
 **BibTeX Format:**
@@ -35,7 +35,7 @@ Osorio, A., Ataides, V., Ferreira Jr., P., & Cavalheiro, G. (2024). DeClassIFY: 
  doi = {10.5753/wei.2024.2987},
  url = {https://sol.sbc.org.br/index.php/wei/article/view/29673}
 }
-    ```
+```
 
 **Key Classification Aspects:**
 
