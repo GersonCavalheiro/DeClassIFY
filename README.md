@@ -35,6 +35,7 @@ Osorio, A., Ataides, V., Ferreira Jr., P., & Cavalheiro, G. (2024). DeClassIFY: 
  doi = {10.5753/wei.2024.2987},
  url = {https://sol.sbc.org.br/index.php/wei/article/view/29673}
 }
+    ```
 
 **Key Classification Aspects:**
 
